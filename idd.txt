@@ -14,10 +14,10 @@
 	
 	<h2> My hobbies </h2>
 	<ol>
-		<il>Reading</il>
-		<il>Playing video games </il>
-		<il>Jogging </il>
-		<il>horror movies </il>
+		<li>Reading</li>
+		<li>Playing video games </li>
+		<li>Jogging </li>
+		<li>horror movies </li>
 	</ol>
 </body>
 </html>
