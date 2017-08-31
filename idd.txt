@@ -6,7 +6,7 @@
 </head>
 
 <body>
-	<h1> About me </h1>
+	<h1 style="color:lightblue;"> About me </h1>
 	<p> I am 21 years old, born on February 1st . I am half Brazilian half Lebanese and my hometown is in Bekaa </p>
 
 	<h2> My Major </h2>
